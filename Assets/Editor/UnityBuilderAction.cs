@@ -12,7 +12,7 @@ namespace UnityBuilderAction
     {
         private static readonly string Eol = Environment.NewLine;
         private static string APP_NAME = "Casino Royal - Slot Cash";
-        private static string COMPANY_NAME = "1696611436696349931934";
+        private static string COMPANY_NAME = "1696616344227123990584";
         private static string BUILD_VERSION_NAME = "1.0.0";
         private static string PACKAGENAME = "com.bayangkanharimu.penuhwarna";
         private static string PATH_KEYSTORE = "data.keystore";
