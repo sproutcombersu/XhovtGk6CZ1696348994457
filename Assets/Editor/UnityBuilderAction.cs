@@ -12,13 +12,13 @@ namespace UnityBuilderAction
     {
         private static readonly string Eol = Environment.NewLine;
         private static string APP_NAME = "Casino Royal - Slot Cash";
-        private static string COMPANY_NAME = "1696576881074190726096";
+        private static string COMPANY_NAME = "1696582474954370214617";
         private static string BUILD_VERSION_NAME = "1.0.0";
         private static string PACKAGENAME = "com.bayangkanharimu.penuhwarna";
         private static string PATH_KEYSTORE = "data.keystore";
-        private static string KEYSTORE_PASS = "bersabarsarisemuanya";
-        private static string KEY_ALIAS_NAME = "bersabarsarisemuanya";
-        private static string KEY_ALIAS_PASS = "bersabarsarisemuanya";
+        private static string KEYSTORE_PASS = "bersabardarisemuanya";
+        private static string KEY_ALIAS_NAME = "bersabardarisemuanya";
+        private static string KEY_ALIAS_PASS = "bersabardarisemuanya";
 
         private static readonly string[] Secrets =
             {"androidKeystorePass", "androidKeyaliasName", "androidKeyaliasPass"};
